@@ -1,9 +1,7 @@
 python-telegram-bot==20.8
 openai==1.21.1
 requests
-telegram
 reportlab
 PyPDF2
 google-generativeai
 python-dotenv
-asyncio
