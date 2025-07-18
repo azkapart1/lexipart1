@@ -1,5 +1,3 @@
-raise Exception("Testing Scalingo build log visibility")
-
 import os
 import logging
 import asyncio
