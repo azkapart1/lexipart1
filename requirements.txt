@@ -6,3 +6,4 @@ reportlab
 PyPDF2
 google-generativeai
 python-dotenv
+asyncio
